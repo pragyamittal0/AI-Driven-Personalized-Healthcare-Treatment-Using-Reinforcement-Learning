@@ -48,3 +48,13 @@ The dataset used in this project is `healthcare_dataset.csv`, which contains:
    ```bash
    pip install numpy pandas tensorflow scikit-learn gym
 
+---
+
+## Output 
+PPO Recommendation:
+- Medication Adjustment: Moderate Adjustment
+
+- Diagnostic Testing: High Adjustment
+
+- Lifestyle Changes: Low Adjustment
+
