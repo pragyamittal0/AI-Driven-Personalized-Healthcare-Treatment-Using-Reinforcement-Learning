@@ -58,3 +58,16 @@ PPO Recommendation:
 
 - Lifestyle Changes: Low Adjustment
 
+---
+
+## Future Work
+
+- Train PPO and DQN models on larger and more diverse datasets.
+- Incorporate patient feedback to refine recommendations.
+- Expand heuristic baselines to include more sophisticated logic.
+- Explore additional RL methods such as A3C and SAC.
+
+## Authors
+
+[Garima Badhan & Pragya Mittal] – Implemented PPO, DQN, and baseline policies.
+
